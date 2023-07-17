@@ -1,0 +1,2 @@
+class `companion-object` {
+}
